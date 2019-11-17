@@ -2,3 +2,5 @@ device_name: /dev/sda1
 name: test
 ec2_url: https://ip-172-31-17-93.ap-southeast-1.compute.internal
 ec2_region: ap-southeast-1
+ec2_instances.instances.0.id: i-0c8c7295b86b225fc
+id_snapshot.snapshots.0.snapshot_id: snap-01facdeb9a622b52f
