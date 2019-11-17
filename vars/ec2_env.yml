@@ -1,4 +1,4 @@
-device_name: # Instance Root Device (eg. /dev/sda)
-name: # Your EC2 Instance Name
-ec2_url: # Instance Region URL (eg. https://ec2.us-east-1.amazonaws.com)
-ec2_region: # Instance Region (eg. us-east-1)
+device_name: /dev/sda1
+name: test
+ec2_url: https://ip-172-31-17-93.ap-southeast-1.compute.internal
+ec2_region: ap-southeast-1
