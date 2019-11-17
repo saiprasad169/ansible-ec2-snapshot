@@ -1,4 +1,4 @@
-- hosts: localhost
+- hosts: 172.31.17.93
   connection: local
 
   vars_files:
